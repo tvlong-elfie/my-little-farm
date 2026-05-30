@@ -166,6 +166,40 @@ Bà con chú ý tuân thủ đúng các tỷ lệ quy đổi dân dã và thời
 
 ---
 
+## 📋 BẢNG DINH DƯỠNG & TIÊU CHUẨN AN TOÀN NÔNG SẢN TƯƠI (Cho bà con dễ tra cứu)
+
+Để trồng ra sản phẩm vừa bổ dưỡng vừa đạt chuẩn sạch bán vào các siêu thị lớn (như Co.opmart, WinMart, Bách Hóa Xanh), bà con cần nắm rõ các thông số dinh dưỡng và giới hạn an toàn thực phẩm cực kỳ đơn giản dưới đây:
+
+### 1. Dinh dưỡng lành trong 3 nhóm nông sản (Mỗi 100g ăn được)
+*   **Rau ăn lá (Cải ngọt, Cải bó xôi, Xà lách):** Chứa nhiều nước (>90% là nước mát), ăn siêu ít calo sợ mập. Rất giàu **Vitamin C** (đề kháng tốt), **Canxi** (chắc khỏe xương), **Sắt** (bổ máu), **Folate** và chất sáng mắt (**Beta-carotene** đặc biệt nhiều ở cải bó xôi).
+*   **Rau củ (Cà rốt, Khoai lang, Củ cải):** Chứa nhiều bột đường tự nhiên ăn no bụng. Giàu chất xơ hòa tan tốt cho ruột, nhiều **Kali** (tốt cho tim mạch). Riêng **Cà rốt** và **Khoai lang** ruột vàng chứa lượng chất sáng mắt (**Beta-carotene**) cao ngất ngưởng.
+*   **Trái cây (Xoài chín, Chanh dây, Mít chín):** Ngọt thơm nhờ đường trái cây tự nhiên, cực kỳ giàu **Vitamin C** vượt trội (xoài, chanh dây) và lượng **Kali** dồi dào, giúp cơ thể dẻo dai khỏe khoắn.
+
+### 2. Các mối nguy hại thực tế tại vườn & Cách ngăn ngừa
+*   **Rau Ăn Lá: Vi trùng đường ruột & Muối đạm dư**
+    *   *Mối nguy:* Vi trùng bám ở bẹ lá gần mặt đất (*E. coli, Salmonella*) từ nước tưới bẩn hoặc phân tươi. Muối đạm dư thừa (Nitrat) làm rau bị chát, không an toàn do tưới phân đạm hóa học vô tội vạ hoặc tưới dịch vi sinh quá đậm gần ngày hái.
+    *   *Cách ngừa:* **Bắt buộc** ủ nóng IMO-4 đạt 55°C - 65°C liên tục 3 ngày để diệt trùng bằng nhiệt. **Không tưới nước phân JLF hay JMS trước khi thu hoạch 30 ngày.**
+*   **Rau Củ (Dưới đất): Kim loại độc hại từ đất & Vi sinh ẩn sâu**
+    *   *Mối nguy:* Kim loại nặng nguy hiểm (Chì, Cadimi) hút từ lòng đất bị nhiễm bẩn vào ruột củ. Vi khuẩn ngủ đông có bào tử dai dẳng trong đất (*Clostridium botulinum*).
+    *   *Cách ngừa:* **Không lấy đất mặt** ở những nơi ô nhiễm để làm bom hạt giống. Chỉ đào lấy đất sét sạch ở tầng sâu **dưới 30 cm** để bọc bom hạt giống Nendo Dango.
+*   **Trái Cây (Trên cây): Nấm mốc thối dập & Hóa chất chín ép**
+    *   *Mối nguy:* Nấm mốc xâm nhập từ vết dập nát sản sinh độc tố nấm gây hại bao tử (*Patulin, Aflatoxin*). Hóa chất ép chín nhanh công nghiệp độc hại.
+    *   *Cách ngừa:* Thu hoạch nhẹ tay tránh làm trầy xước quả. Rửa sạch vỏ quả ngay bằng nước sinh hoạt sạch sau thu hoạch. Phơi bom hạt giống Nendo Dango thật **khô cứng trong bóng mát** (độ ẩm < 15%) trước khi cất kho để không phát sinh mốc đen lây lan vườn.
+
+### 3. Tiêu chuẩn đo lường an toàn VietGAP quy đổi dân dã
+Để bà con dễ hình dung các con số khoa học trong giấy kiểm nghiệm siêu thị, chúng ta quy đổi như sau:
+
+| Chỉ số khoa học | Giới hạn tối đa cho phép | Giải thích dân dã, dễ nhớ |
+| :--- | :---: | :--- |
+| **Kim loại nặng Chì (Pb)** | **0.1 - 0.3 mg/kg** | Siêu nhỏ! Chỉ tương đương **1 hạt cát mịn** trong bao tải tạ lớn. Vượt quá mức này là rau bị chê là bẩn ngay. (Rau ăn lá: tối đa 0.3; Rau củ & Trái cây: tối đa 0.1). |
+| **Kim loại nặng Cadimi (Cd)** | **0.05 - 0.2 mg/kg** | Giới hạn cực kỳ nghiêm ngặt đối với trái cây ăn quả (chỉ cho phép 0.05). |
+| **Vi khuẩn đau bụng E. coli** | **Dưới 100 CFU/g** | Nghĩa là trong một nhúm lá hay nhúm đất siêu nhỏ, số lượng vi sinh vật đường ruột bám dính **phải ít hơn 100 con đơn độc**. |
+| **Vi trùng thương hàn Salmonella** | **BẰNG KHÔNG (0/25g)** | **TUYỆT ĐỐI KHÔNG ĐƯỢC CÓ** dù chỉ 1 con vi trùng gây tiêu chảy cấp tính trong nông sản hái ra. |
+| **Muối đạm Nitrat ($NO_3^-$)** | **< 250 - 3000 mg/kg** | Giống như vị mặn của muối, đạm đọng nhiều trong rau không tốt. (Rau ăn lá xà lách: dưới 1500; Cải ngọt: dưới 3000; Rau củ cà rốt: dưới 250). |
+| **Thuốc diệt cỏ Glyphosate / Paraquat** | **0.01 - 0.2 mg/kg** | Các thuốc hóa học cực độc này bị cấm sử dụng tại VN, nếu đi test mà phát hiện dù chỉ lượng cực nhỏ là lô hàng bị tiêu hủy 100%. |
+
+---
+
 ## 🛠️ CẨM NANG PHẢN ỨNG NHANH TẠI VƯỜN (Xử lý sự cố khẩn cấp)
 
 Bà con gặp sự cố thì bình tĩnh tra cứu bảng dưới đây để cứu vườn kịp thời:
