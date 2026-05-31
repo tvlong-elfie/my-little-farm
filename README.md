@@ -1,6 +1,7 @@
 # my-little-farm
 
 ## Cây tri thức canh tác sinh thái (Knowledge Tree)
+- [Hướng dẫn Kỹ thuật Canh tác & Dược tính Dinh dưỡng Rau má (01/06/2026)](research/rau_ma_sop_nutrition.md) — SOP chi tiết, hướng dẫn quy đổi liều lượng, cách ly phân bón vi sinh KNF/JADAM an toàn thực phẩm thực địa.
 - [Cẩm nang Tóm tắt 4 Kỹ thuật Canh tác Sinh thái Mới (31/05/2026)](research/key_takeaways_farming_plan.md) — Tóm tắt tri thức, giải pháp tài chính và chốt chặn an toàn cho JMS, Nông nghiệp Syntropic, IMO-Biochar và Thuốc BVTV JNP+JWA.
 - [Sổ tay Thực hành Canh tác Sinh thái SOP (31/05/2026)](research/ecological_farming_sop.md) — Hướng dẫn thực hành từng bước, bảng quy đổi đơn vị và cẩm nang phản ứng sự cố khẩn cấp cho nông dân thực địa.
 - [Cẩm nang Hướng dẫn An toàn Thực phẩm (VSATTP) Trực quan (31/05/2026)](research/food_safety_handbook_sop.md) — Hướng dẫn chi tiết VSATTP cho 3 nhóm nông sản (Lá, Củ, Quả) và bảng chỉ tiêu an toàn VietGAP quy đổi dân dã.
